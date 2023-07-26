@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @schachz
-- 👀 I’m interested in data science, biostatistics, sports analytics, and marketing analytics.
-- 🌱 I’m currently learning Python, R, and SQL.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in data science, biostatistics, marketing analytics.
+- 🌱 I’m currently honing my machine learning and python skills.
 - 📫 How to reach me... LinkedIn: www.linkedin.com/in/zachschachter/
 
 <!---
